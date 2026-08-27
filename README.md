@@ -1,5 +1,4 @@
-# Java_Coding_Practice
-Practice problems in java 
+
 # Java Coding Practice ☕
 
 This repository contains my Java coding practice and problem-solving programs.
